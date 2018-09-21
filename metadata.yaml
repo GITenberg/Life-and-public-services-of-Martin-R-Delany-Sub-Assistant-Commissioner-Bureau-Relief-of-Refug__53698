@@ -1,0 +1,31 @@
+_repo: Life-and-public-services-of-Martin-R-Delany-Sub-Assistant-Commissioner-Bureau-Relief-of-Refug__53698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rollin, Frank A.
+    alias: Rollin, Frances Anne
+    deathdate: 1901
+    gutenberg_agent_id: '47491'
+    url: http://www.gutenberg.org/2009/agents/47491
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Rollin_Whipper
+description: ''
+gutenberg_issued: '2016-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Participation, African
+  American'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Delany, Martin Robison, 1812-1885'
+- !lcsh 'United States. Bureau of Refugees, Freedmen and Abandoned Lands'
+- GITenberg
+title: "Life and public services of Martin R. Delany\r\nSub-Assistant Commissioner\
+  \ Bureau Relief of Refugees, Freedmen, and of Abandoned Lands, and late Major 104th\
+  \ U.S. Colored Troops"
+url: http://www.gutenberg.org/ebooks/53698
